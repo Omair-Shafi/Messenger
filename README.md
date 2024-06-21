@@ -6,12 +6,12 @@ Used Next.js, React, TailwindCSS, Prisma, MongoDB, NextAuth, Pusher
 
 Login
 
-![Login]()
+![Login](https://github.com/Omair-Shafi/Messenger/blob/main/public/images/login.PNG)
 
 Create an account
 
-![Sign up]()
+![Sign up](https://github.com/Omair-Shafi/Messenger/blob/main/public/images/sign%20up.PNG)
 
 Conversations Screen
 
-![Conversations]()
+![Conversations](https://github.com/Omair-Shafi/Messenger/blob/main/public/images/conversations.png)

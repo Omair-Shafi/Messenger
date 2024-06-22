@@ -4,6 +4,8 @@ Creates a messaging app for users to be able to sign up and chat with other user
 
 Used Next.js, React, TailwindCSS, MongoDB and Prisma, NextAuth, Pusher, Cloudinary.
 
+**Note:** For security reasons API keys have been removed from the program before sharing this project here.
+
 Login
 
 ![Login](https://github.com/Omair-Shafi/Messenger/blob/main/public/images/login.PNG)
